@@ -1,0 +1,25 @@
+#container-index {
+    padding-top: 170px;
+}
+
+h3, .p-index {
+    text-align: center;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+.p-index {
+    font-size: 1.1em;
+}
+
+#portfolio, #email, #location, #phone, #resume {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#portfolio:hover, #email:hover, #location:hover, #phone:hover, #resume:hover {
+    color: rgb(0, 0, 0, 0.7);
+}
