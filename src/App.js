@@ -1,34 +1,17 @@
-import './App.css';
-import React, { Component } from 'react';
-import { HashRouter, Route, Link } from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Home from './pages/Home';
 
 function App() {
   return (
-    <HashRouter basename='/'>
+    <Router>
       <div>
-        <ul className="nav justify-content-center pt-2 pb-2" id="list" style={{backgroundColor: "#06224A"}}>
-          <li className="nav-item">
-            <Link to='/' className="nav-link" style={{color: "#FFFFFF"}}>Home</Link>
-          </li>
-          <li className="nav-item">
-            <Link to='/about' className="nav-link" style={{color: "#FFFFFF"}}>About</Link>
-          </li>
-          <li className="nav-item">
-            <Link to='/portfolio' className="nav-link" style={{color: "#FFFFFF"}}>Portfolio</Link>
-          </li>
-          <li className="nav-item">
-            <Link to='/contact' className="nav-link" style={{color: "#FFFFFF"}}>Contact</Link>
-          </li>
-        </ul>
-        <Route exact path='/' component={Home} />
-        <Route exact path='/about' component={About} />
+        <Switch>
+          <Route exact path='/' component={Home} />
+        </Switch>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
-
-const Home = () => <div><h2>Home</h2></div>
-const About = () => <div><h2>About</h2></div>
 
 export default App;
