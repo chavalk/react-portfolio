@@ -23,3 +23,13 @@ h3 {
 #portfolio:hover, #email:hover, #location:hover, #phone:hover, #resume:hover {
     color: rgb(0, 0, 0, 0.7);
 }
+
+.icons {
+    width: 100%;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+#github {
+    color: black;
+}
