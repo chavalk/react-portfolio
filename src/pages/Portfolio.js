@@ -13,7 +13,6 @@ const Portfolio = () => {
                     <p id="p-portfolio">Below are some of the projects I've worked on thus far.</p>
                     <div className="row">
                         <div className="col-md-6">
-
                             <div className="card mb-3 text-center" style={{ width: "100%" }}>
                                 <img src={pillBox} className="card-img-top" alt="Website"></img>
                                 <div className="card-body">
