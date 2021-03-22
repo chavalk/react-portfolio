@@ -10,6 +10,10 @@ h3 {
     font-size: 2em;
 }
 
+h1 {
+    font-size: 3em;
+}
+
 .p-index {
     font-size: 1.1em;
 }
@@ -32,4 +36,8 @@ h3 {
 
 #github {
     color: black;
+}
+
+#h1-contact {
+    margin-bottom: 50px;
 }
