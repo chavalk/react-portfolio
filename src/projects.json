@@ -1,0 +1,9 @@
+[
+    {
+        "image": "./images/pill-box.png",
+        "title": "Pill Box",
+        "description": "Application to help caretakers efficiently manage their patients' medication.",
+        "deployed": "https://infinite-mesa-67411.herokuapp.com/",
+        "repo": "https://github.com/chavalk/Pill-Box"
+    }
+]
