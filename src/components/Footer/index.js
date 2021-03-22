@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer style={{ textAlign: "center"}}>
             <div className="container">
-                <p>Jose Garcia &copy; 2021</p>
+                <p id="footer">Jose Garcia &copy; 2021</p>
             </div>
         </footer>
     );
