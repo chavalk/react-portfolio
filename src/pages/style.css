@@ -1,12 +1,12 @@
 #container-index {
-    padding-top: 170px;
+    padding-top: 60px;
 }
 
 #container-portfolio {
     padding-top: 100px;
 }
 
-h3, .p-index {
+h1, .p-index {
     text-align: center;
 }
 
