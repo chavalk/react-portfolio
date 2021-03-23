@@ -8,8 +8,8 @@ const Home = () => {
                 <div className="col-md-2">
                 </div>
                 <div className="col-md-8">
-                    <h1>Hello, my name is Jose Garcia.</h1>
-                    <h1>I'm a full-stack web developer.</h1>
+                    <h1 id="h1-about">Hello, my name is Jose Garcia.</h1>
+                    <h1 id="h1-about">I'm a full-stack web developer.</h1>
                     <p className="p-index"><h4>Some of the languages and technologies I use are:</h4> React.js, MongoDB, Node.js, Express.js, Git, JavaScript, MySQL, Bootstrap, jQuery, Ajax, APIs, Object Oriented Programming, Linting and Continuous Integration, Progressive Web Apps, Web Optimization, Object Relational Mapping, Handlebars, HTML5, and CSS3.</p>
                     <p className="p-index">Please take a moment to review my <a href="/portfolio" id="portfolio">portfolio</a> to see the projects I've worked on.</p>
                     <p className="p-index">I can be reached by email at <a href="mailto:chavalk@hotmail.com" id="email">chavalk@hotmail.com</a> or by phone at <a href="tel:+1-210-782-7463" id="phone">210-782-7463</a>.</p>

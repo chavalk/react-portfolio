@@ -3,10 +3,10 @@
 }
 
 #container-portfolio {
-    padding-top: 100px;
+    padding-top: 60px;
 }
 
-h1, .p-index {
+#h1-about, .p-index {
     text-align: center;
 }
 
@@ -18,7 +18,7 @@ h1 {
     font-size: 3em;
 }
 
-.p-index, #p-portfolio {
+.p-index {
     font-size: 1.1em;
 }
 
@@ -43,7 +43,8 @@ h1 {
 }
 
 #p-portfolio {
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #h1-contact {

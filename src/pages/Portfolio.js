@@ -11,7 +11,7 @@ const Portfolio = () => {
                 </div>
                 <div className="col-md-8">
                     <h1>Portfolio</h1>
-                    <p id="p-portfolio">Below are some of the projects I've worked on thus far.</p>
+                    <h5 id="p-portfolio">Below are some of the projects I've worked on:</h5>
                     <div className="row">
                         <Project 
                             image={projects[0].image}
