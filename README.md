@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# react-portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+React Portfolio is an application built entirely with React.js. It involved taking an earlier version of my portfolio website built with HTML5 and CSS3 and building it from the ground up with React.js. Under the hood, the application has a pages folder for the about page, the portfolio page, and the contact page. It also takes advantage of using components in react to have a component for the nav bar, a component for the footer, and a component for building the project cards. The application uses React HashRouter instead of BrowserRouter in order to allow the deployment to GitHub pages. HashRouter is the one that facilitates rendering the different pages.
 
-In the project directory, you can run:
+Below is a screenshot of the about page in the application:
 
-### `npm start`
+![react-portfolio](./public/assets/images/about.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Below is a screenshot of the portfolio page:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![react-portfolio](./public/assets/images/portfolio.png)
 
-### `npm test`
+Below is a screenshot of the contact page:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![react-portfolio](./public/assets/images/contact.png)
 
-### `npm run build`
+## Table of Contents
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+There's no need to install this application. Simply navigate to the deployed version below to see it in action.
 
-### `npm run eject`
+https://chavalk.github.io/react-portfolio/#/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Usage
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project's primary purpose was to continue to get experience building applications with React.js and also to experience refactoring an existing application built with HTML5 and CSS3 to work with React.js.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[MIT](https://choosealicense.com/licenses/mit/)
 
-## Learn More
+## Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions are currently not accepted for this application.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tests
 
-### Code Splitting
+There is no testing available within the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Questions
 
-### Analyzing the Bundle Size
+My GitHub username is: chavalk
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Link: https://github.com/chavalk
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have additional questions, feel free to reach me at chavalk@hotmail.com.
