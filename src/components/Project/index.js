@@ -2,8 +2,8 @@ import React from 'react';
 
 const Project = (props) => {
     return (
-        <div className="col-md-6">
-            <div className="card mb-3 text-center" style={{ width: "100%" }}>
+        <div className="col-md-6 mb-3">
+            <div className="card text-center shadow-lg p-1 mb-2 bg-body rounded h-100" style={{ width: "100%" }}>
                 <img src={props.image} className="card-img-top" alt="Website"></img>
                 <div className="card-body">
                     <h5 className="card-title">{props.title}</h5>
