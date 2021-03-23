@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="page-container">
       <div className="content-wrap">
-      <Router>
+      <Router basename="/react-portfolio">
         <Nav />
         <Switch>
           <Route exact path='/' component={About} />
