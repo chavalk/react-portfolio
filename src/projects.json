@@ -1,9 +1,50 @@
 [
     {
+        "id": 1,
         "image": "https://www.josesgarcia.com/images/pill-box.png",
         "title": "Pill Box",
         "description": "Application to help caretakers efficiently manage their patients' medication.",
         "deployed": "https://infinite-mesa-67411.herokuapp.com/",
         "repo": "https://github.com/chavalk/Pill-Box"
+    },
+    {
+        "id": 2,
+        "image": "https://www.josesgarcia.com/images/food-truck-finder.png",
+        "title": "Food Truck Finder",
+        "description": "Application used to find food trucks based on a user's current location.",
+        "deployed": "https://chavalk.github.io/Food-Truck-Finder/",
+        "repo": "https://github.com/chavalk/Food-Truck-Finder"
+    },
+    {
+        "id": 3,
+        "image": "https://www.josesgarcia.com/images/employee-directoy.png",
+        "title": "Employee Directory",
+        "description": "Employee Directory is a front-end application built with React.js.",
+        "deployed": "https://chavalk.github.io/employee-directory/",
+        "repo": "https://github.com/chavalk/employee-directory"
+    },
+    {
+        "id": 4,
+        "image": "https://www.josesgarcia.com/images/budget-tracker.png",
+        "title": "Budget Tracker",
+        "description": "A progressive web application to keep track of additions and deductions to a budget.",
+        "deployed": "https://guarded-reaches-27987.herokuapp.com/",
+        "repo": "https://github.com/chavalk/budget-tracker"
+    },
+    {
+        "id": 5,
+        "image": "https://www.josesgarcia.com/images/workout-tracker.png",
+        "title": "Workout Tracker",
+        "description": "An application to allow users to keep track of workouts and the exercises in each workout.",
+        "deployed": "https://floating-savannah-96499.herokuapp.com/?id=603fe2e65939a1001567da4c",
+        "repo": "https://github.com/chavalk/workout-tracker"
+    },
+    {
+        "id": 6,
+        "image": "https://www.josesgarcia.com/images/burger.png",
+        "title": "Eat-Da-Burger!",
+        "description": "Application allows users to add burger names and devour them.",
+        "deployed": "https://thawing-island-13237.herokuapp.com/",
+        "repo": "https://github.com/chavalk/burger"
     }
 ]
