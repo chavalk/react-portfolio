@@ -17,6 +17,7 @@ const Portfolio = () => {
                             image={projects[0].image}
                             title={projects[0].title}
                             description={projects[0].description}
+                            technologies={projects[0].technologies}
                             deployed={projects[0].deployed}
                             repo={projects[0].repo}
                         />
@@ -24,6 +25,7 @@ const Portfolio = () => {
                             image={projects[1].image}
                             title={projects[1].title}
                             description={projects[1].description}
+                            technologies={projects[1].technologies}
                             deployed={projects[1].deployed}
                             repo={projects[1].repo}
                         />
@@ -33,6 +35,7 @@ const Portfolio = () => {
                             image={projects[2].image}
                             title={projects[2].title}
                             description={projects[2].description}
+                            technologies={projects[2].technologies}
                             deployed={projects[2].deployed}
                             repo={projects[2].repo}
                         />
@@ -40,6 +43,7 @@ const Portfolio = () => {
                             image={projects[3].image}
                             title={projects[3].title}
                             description={projects[3].description}
+                            technologies={projects[3].technologies}
                             deployed={projects[3].deployed}
                             repo={projects[3].repo}
                         />
@@ -49,6 +53,7 @@ const Portfolio = () => {
                             image={projects[4].image}
                             title={projects[4].title}
                             description={projects[4].description}
+                            technologies={projects[4].technologies}
                             deployed={projects[4].deployed}
                             repo={projects[4].repo}
                         />
@@ -56,6 +61,7 @@ const Portfolio = () => {
                             image={projects[5].image}
                             title={projects[5].title}
                             description={projects[5].description}
+                            technologies={projects[5].technologies}
                             deployed={projects[5].deployed}
                             repo={projects[5].repo}
                         />
