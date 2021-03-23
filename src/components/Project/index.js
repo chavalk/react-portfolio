@@ -8,7 +8,7 @@ const Project = (props) => {
                 <div className="card-body">
                     <h5 className="card-title">{props.title}</h5>
                     <p className="card-text">{props.description}</p>
-                    <h6>Technologies used:</h6><p>Handlebars, MySQL, HTML5, and CSS3.</p>
+                    <h6>Technologies used:</h6><p>{props.technologies}</p>
                     <a href={props.deployed} target="_blank" rel="noreferrer" className="btn btn-dark mr-1">See it Live</a>
                     <a href={props.repo} target="_blank" rel="noreferrer" className="btn btn-dark">View Code</a>
                 </div>
