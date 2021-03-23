@@ -17,6 +17,7 @@ const Home = () => {
                     <div className="icons">
                         <a href="https://www.linkedin.com/in/jose-garcia-9635337a" target="_blank" rel="noreferrer" id="linkedin"><i className="fab fa-linkedin-in fa-3x"></i></a>
                         <a href="https://github.com/chavalk" target="_blank" rel="noreferrer" id="github"><i className="fab fa-github fa-3x"></i></a>
+                        <a href="https://twitter.com/chavalk" target="_blank" rel="noreferrer" id="twitter"><i className="fab fa-twitter fa-3x"></i></a>
                     </div>
                 </div>
                 <div className="col-md-2">
