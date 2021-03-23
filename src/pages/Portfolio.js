@@ -20,6 +20,45 @@ const Portfolio = () => {
                             deployed={projects[0].deployed}
                             repo={projects[0].repo}
                         />
+                        <Project 
+                            image={projects[1].image}
+                            title={projects[1].title}
+                            description={projects[1].description}
+                            deployed={projects[1].deployed}
+                            repo={projects[1].repo}
+                        />
+                    </div>
+                    <div className="row">
+                        <Project 
+                            image={projects[2].image}
+                            title={projects[2].title}
+                            description={projects[2].description}
+                            deployed={projects[2].deployed}
+                            repo={projects[2].repo}
+                        />
+                        <Project 
+                            image={projects[3].image}
+                            title={projects[3].title}
+                            description={projects[3].description}
+                            deployed={projects[3].deployed}
+                            repo={projects[3].repo}
+                        />
+                    </div>
+                    <div className="row">
+                        <Project 
+                            image={projects[4].image}
+                            title={projects[4].title}
+                            description={projects[4].description}
+                            deployed={projects[4].deployed}
+                            repo={projects[4].repo}
+                        />
+                        <Project 
+                            image={projects[5].image}
+                            title={projects[5].title}
+                            description={projects[5].description}
+                            deployed={projects[5].deployed}
+                            repo={projects[5].repo}
+                        />
                     </div>
                 </div>
             </div>
