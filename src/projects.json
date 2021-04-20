@@ -1,34 +1,43 @@
 [
     {
         "id": 1,
-        "image": "https://www.josesgarcia.com/images/pill-box.png",
-        "title": "Pill Box",
-        "description": "Application to help caretakers efficiently manage their patients' medication.",
-        "technologies": "JavaScript, jQuery, Handlebars, MySQL, HTML5, and CSS3.",
-        "deployed": "https://infinite-mesa-67411.herokuapp.com/",
-        "repo": "https://github.com/chavalk/Pill-Box"
+        "image": "https://www.josesgarcia.com/images/a-lists.gif",
+        "title": "A-Lists",
+        "description": "An application that allows users to search a movie or show and to save the item to their watchlists",
+        "technologies": "React.js, auth0, Bootstrap, JavaScript, Mongoose ORM, Node.js, and Heroku.",
+        "deployed": "https://serene-fjord-76369.herokuapp.com/",
+        "repo": "https://github.com/chavalk/a-lists"
     },
     {
         "id": 2,
-        "image": "https://www.josesgarcia.com/images/food-truck-finder.png",
-        "title": "Food Truck Finder",
-        "description": "Application used to find food trucks based on a user's current location.",
-        "technologies": "Javascript, jQuery, HTML5, CSS3, Open Weather API, and Google Places API.",
-        "deployed": "https://chavalk.github.io/Food-Truck-Finder/",
-        "repo": "https://github.com/chavalk/Food-Truck-Finder"
+        "image": "https://www.josesgarcia.com/images/pill-box.gif",
+        "title": "Pill Box",
+        "description": "An application designed to help caregivers efficiently manage the medications each of their patients need to take on a daily basis.",
+        "technologies": "Node.js, Express.js, MySQL, Sequelize ORM, Passport.js, JavaScript, HTML5, and CSS3.",
+        "deployed": "https://pill-box-1.herokuapp.com/",
+        "repo": "https://github.com/chavalk/Pill-Box"
     },
     {
         "id": 3,
-        "image": "https://www.josesgarcia.com/images/employee-directoy.png",
-        "title": "Employee Directory",
-        "description": "Employee Directory is a front-end application built with React.js.",
-        "technologies": "React.js, JSX, HTML5, CSS3, and Random User API.",
-        "deployed": "https://chavalk.github.io/employee-directory/",
-        "repo": "https://github.com/chavalk/employee-directory"
+        "image": "https://www.josesgarcia.com/images/google-books-search.gif",
+        "title": "Google Books Search",
+        "description": "An application built to allow the user to search for a book and to save any of the books to be accessed later.",
+        "technologies": "React.js, Bootstrap, Google Books API, JavaScript, MongoDB, Node.js, and Heroku.",
+        "deployed": "https://fierce-stream-28814.herokuapp.com/",
+        "repo": "https://github.com/chavalk/google-books-search"
     },
     {
         "id": 4,
-        "image": "https://www.josesgarcia.com/images/budget-tracker.png",
+        "image": "https://www.josesgarcia.com/images/workout-tracker.gif",
+        "title": "Workout Tracker",
+        "description": "An application designed to allow users to keep track of their workouts and the exercises in each workout.",
+        "technologies": "HTML5, CSS3, MongoDB, jQuery, JavaScript, Node.js, Express.js, and Heroku.",
+        "deployed": "https://floating-savannah-96499.herokuapp.com/?id=603fe2e65939a1001567da4c",
+        "repo": "https://github.com/chavalk/workout-tracker"
+    },
+    {
+        "id": 5,
+        "image": "https://www.josesgarcia.com/images/budget-tracker.gif",
         "title": "Budget Tracker",
         "description": "A progressive web application to keep track of additions and deductions to a budget.",
         "technologies": "MongoDB, Mongoose, JavaScript, HTML5, and CSS3.",
@@ -36,21 +45,12 @@
         "repo": "https://github.com/chavalk/budget-tracker"
     },
     {
-        "id": 5,
-        "image": "https://www.josesgarcia.com/images/workout-tracker.png",
-        "title": "Workout Tracker",
-        "description": "An application to allow users to keep track of workouts and the exercises in each workout.",
-        "technologies": "Express, MongoDB, HTML5, and CSS3.",
-        "deployed": "https://floating-savannah-96499.herokuapp.com/?id=603fe2e65939a1001567da4c",
-        "repo": "https://github.com/chavalk/workout-tracker"
-    },
-    {
         "id": 6,
-        "image": "https://www.josesgarcia.com/images/burger.png",
-        "title": "Eat-Da-Burger!",
-        "description": "Application allows users to add burger names and devour them.",
-        "technologies": "MySQL, JavaScript, Express, Handlebars, HTML5, and CSS3.",
-        "deployed": "https://thawing-island-13237.herokuapp.com/",
-        "repo": "https://github.com/chavalk/burger"
+        "image": "https://www.josesgarcia.com/images/weather-dashboard.gif",
+        "title": "Weather Dashboard",
+        "description": "An application designed to allow users to search for the current weather and forecast in any city.",
+        "technologies": "HTML5, CSS3, Bootstrap, JavaScript, jQuery, Open Weather API, Moment.js, and Github Pages.",
+        "deployed": "https://chavalk.github.io/weather-dashboard/",
+        "repo": "https://github.com/chavalk/weather-dashboard"
     }
 ]
