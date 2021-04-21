@@ -1,57 +1,66 @@
-/* Styling container in home page */
+/* Adding margin-top to container in home page */
 #container-home {
     margin-top: 100px;
 }
 
-/* Styling container in portfolio page */
+/* Adding padding-top to container in portfolio page */
 #container-portfolio {
     padding-top: 100px;
 }
 
-
-#h1-about, .p-index {
+/* Center text for h1 and p in home page */
+#h1-home, .p-home {
     
 }
 
+/* Increase font size for h3's */
 h3 {
     font-size: 2em;
 }
 
+/* Increase font size for h1's */
 h1 {
     font-size: 3em;
 }
 
-.p-index {
+/* Increase font size for p's in home page */
+.p-home {
     font-size: 1.1em;
 }
 
+/* Style links for portfolio, email, location, phone number, and resume in home page */
 #portfolio, #email, #location, #phone, #resume {
     text-decoration: none;
     color: black;
     font-weight: bold;
 }
 
+/* Add hover effect to links for portfolio, email, location, phone number, and resume in home page */
 #portfolio:hover, #email:hover, #location:hover, #phone:hover, #resume:hover {
     color: rgb(0, 0, 0, 0.7);
 }
 
+/* Style LinkedIn, GitHub, and Twitter icons */
 .icons {
     width: 100%;
     text-align: center;
     letter-spacing: 3px;
 }
 
+/* Style GitHub icon */
 #github {
     color: black;
     margin-right: 5px;
     margin-left: 5px;
 }
 
+/* Style p in portfolio page */
 #p-portfolio {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
+/* Style h1 in contact page */
 #h1-contact {
     margin-bottom: 50px;
 }
