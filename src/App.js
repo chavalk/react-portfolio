@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav';
-import About from './pages/About';
+import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
@@ -13,7 +13,7 @@ function App() {
       <div className="content-wrap">
       <HashRouter basename="/">
         <Nav />
-        <Route exact path='/' component={About} />
+        <Route exact path='/' component={Home} />
         <Route path='/portfolio' component={Portfolio} />
         <Route exact path='/contact' component={Contact} />
       </HashRouter>
