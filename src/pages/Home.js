@@ -4,9 +4,10 @@ import './style.css';
 
 const Home = () => {
     return (
-        <div className="container" id="container-index">
+        <div className="container" id="container-home">
             <div className="row">
-                <div className="col-md-2">
+                <div className="col-md-4">
+                    <img src="https://www.josesgarcia.com/images/profile.jpeg" class="img-fluid rounded" alt="Profile"></img>
                 </div>
                 <div className="col-md-8">
                     <h1 id="h1-about">Hello, my name is Jose Garcia.</h1>
@@ -20,8 +21,6 @@ const Home = () => {
                         <a href="https://github.com/chavalk" target="_blank" rel="noreferrer" id="github"><i className="fab fa-github fa-3x"></i></a>
                         <a href="https://twitter.com/chavalk" target="_blank" rel="noreferrer" id="twitter"><i className="fab fa-twitter fa-3x"></i></a>
                     </div>
-                </div>
-                <div className="col-md-2">
                 </div>
             </div>
         </div>

@@ -1,13 +1,16 @@
-#container-index {
+/* Styling container in home page */
+#container-home {
     margin-top: 100px;
 }
 
+/* Styling container in portfolio page */
 #container-portfolio {
     padding-top: 100px;
 }
 
+
 #h1-about, .p-index {
-    text-align: center;
+    
 }
 
 h3 {
