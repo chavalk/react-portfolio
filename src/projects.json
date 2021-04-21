@@ -3,8 +3,8 @@
         "id": 1,
         "image": "https://www.josesgarcia.com/images/a-lists.gif",
         "title": "A-Lists",
-        "description": "An application that allows users to search a movie or show and to save the item to their watchlists",
-        "technologies": "React.js, auth0, Bootstrap, JavaScript, Mongoose ORM, Node.js, and Heroku.",
+        "description": "An application that allows users to search a movie or show and to save the item to their watchlists sorted by streaming service.",
+        "technologies": "React.js, auth0, Bootstrap, JavaScript, Mongoose ORM, MongoDB, Node.js, and Heroku.",
         "deployed": "https://serene-fjord-76369.herokuapp.com/",
         "repo": "https://github.com/chavalk/a-lists"
     },
@@ -31,7 +31,7 @@
         "image": "https://www.josesgarcia.com/images/workout-tracker.gif",
         "title": "Workout Tracker",
         "description": "An application designed to allow users to keep track of their workouts and the exercises in each workout.",
-        "technologies": "HTML5, CSS3, MongoDB, jQuery, JavaScript, Node.js, Express.js, and Heroku.",
+        "technologies": "HTML5, CSS3, MongoDB, jQuery, JavaScript, Node.js, Express.js, Path, and Heroku.",
         "deployed": "https://floating-savannah-96499.herokuapp.com/?id=603fe2e65939a1001567da4c",
         "repo": "https://github.com/chavalk/workout-tracker"
     },
@@ -40,7 +40,7 @@
         "image": "https://www.josesgarcia.com/images/budget-tracker.gif",
         "title": "Budget Tracker",
         "description": "A progressive web application to keep track of additions and deductions to a budget.",
-        "technologies": "MongoDB, Mongoose, JavaScript, HTML5, and CSS3.",
+        "technologies": "MongoDB, Mongoose ORM, JavaScript, jQuery, Heroku, Express.js, HTML5, and CSS3.",
         "deployed": "https://guarded-reaches-27987.herokuapp.com/",
         "repo": "https://github.com/chavalk/budget-tracker"
     },
