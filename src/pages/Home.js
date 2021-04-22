@@ -7,7 +7,7 @@ const Home = () => {
         <div className="container" id="container-home">
             <div className="row">
                 <div className="col-md-4">
-                    <img src="https://www.josesgarcia.com/images/profile.jpeg" className="img-fluid rounded shadow-lg" alt="Profile"></img>
+                    <img src="https://www.josesgarcia.com/images/profile-small.jpg" className="img-fluid rounded shadow-lg" alt="Profile"></img>
                 </div>
                 <div className="col-md-8">
                     <h1 className="ml-4 mt-4" id="h1-home">Hello, my name is Jose Garcia.</h1>
