@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://www.josesgarcia.com/images/a-lists.gif",
+        "image": "https://www.josesgarcia.com/images/a-lists-small.png",
         "title": "A-Lists",
         "description": "An application that allows users to search a movie or show and to save the item to their watchlists sorted by streaming service.",
         "technologies": "React.js, auth0, Bootstrap, JavaScript, Mongoose ORM, MongoDB, Node.js, and Heroku.",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "https://www.josesgarcia.com/images/pill-box.gif",
+        "image": "https://www.josesgarcia.com/images/pill-box.png",
         "title": "Pill Box",
         "description": "An application designed to help caregivers efficiently manage the medications each of their patients need to take on a daily basis.",
         "technologies": "Node.js, Express.js, MySQL, Sequelize ORM, Passport.js, JavaScript, HTML5, and CSS3.",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "https://www.josesgarcia.com/images/google-books-search.gif",
+        "image": "https://www.josesgarcia.com/images/google-books-search.png",
         "title": "Google Books Search",
         "description": "An application built to allow the user to search for a book and to save any of the books to be accessed later.",
         "technologies": "React.js, Bootstrap, Google Books API, JavaScript, MongoDB, Node.js, and Heroku.",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "image": "https://www.josesgarcia.com/images/workout-tracker.gif",
+        "image": "https://www.josesgarcia.com/images/workout-tracker.png",
         "title": "Workout Tracker",
         "description": "An application designed to allow users to keep track of their workouts and the exercises in each workout.",
         "technologies": "HTML5, CSS3, MongoDB, jQuery, JavaScript, Node.js, Express.js, Path, and Heroku.",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "image": "https://www.josesgarcia.com/images/budget-tracker.gif",
+        "image": "https://www.josesgarcia.com/images/budget-tracker.png",
         "title": "Budget Tracker",
         "description": "A progressive web application to keep track of additions and deductions to a budget.",
         "technologies": "MongoDB, Mongoose ORM, JavaScript, jQuery, Heroku, Express.js, HTML5, and CSS3.",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "image": "https://www.josesgarcia.com/images/weather-dashboard.gif",
+        "image": "https://www.josesgarcia.com/images/weather-dashboard.png",
         "title": "Weather Dashboard",
         "description": "An application designed to allow users to search for the current weather and forecast in any city.",
         "technologies": "HTML5, CSS3, Bootstrap, JavaScript, jQuery, Open Weather API, Moment.js, and Github Pages.",
