@@ -12,13 +12,13 @@ function Nav() {
         <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link to='/' className='nav-link' style={{ color: "white" }}>Home</Link>
+              <a href='/' className='nav-link' style={{ color: "white" }}>Home</a>
             </li>
             <li className="nav-item">
-              <Link to='/portfolio' className='nav-link' style={{ color: "white" }}>Portfolio</Link>
+              <a href='/portfolio' className='nav-link' style={{ color: "white" }}>Portfolio</a>
             </li>
             <li className="nav-item">
-              <Link to='/contact' className='nav-link' style={{ color: "white" }}>Contact</Link>
+              <a href='/contact' className='nav-link' style={{ color: "white" }}>Contact</a>
             </li>
           </ul>
         </div>
