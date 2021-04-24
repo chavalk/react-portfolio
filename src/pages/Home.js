@@ -10,7 +10,7 @@ const Home = () => {
                     <img src="https://www.josesgarcia.com/images/profile-small.jpg" className="img-fluid rounded shadow-lg" alt="Profile"></img>
                 </div>
                 <div className="col-md-8">
-                    <h1 className="ml-4 mt-4">Hello, my name is Jose Garcia.</h1>
+                    <h1 className="ml-4 mt-5">Hello, my name is Jose Garcia.</h1>
                     <h1 className="ml-4">I'm a full-stack web developer.</h1>
                     <h4 className="ml-4">Some of the languages and technologies I use are:</h4>
                     <p className="ml-4">React.js, MongoDB, Node.js, Express.js, Git, JavaScript, MySQL, Bootstrap, jQuery, Ajax, APIs, Object Oriented Programming, Linting and Continuous Integration, Progressive Web Apps, Web Optimization, Object Relational Mapping, Handlebars, HTML5, and CSS3.</p>

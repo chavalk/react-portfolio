@@ -1,6 +1,6 @@
 /* Adding margin-top to container in home page */
 #container-home {
-    margin-top: 100px;
+    margin-top: 5em;
     margin-bottom: 2em;
 }
 
