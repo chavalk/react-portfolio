@@ -9,6 +9,12 @@
     padding-top: 100px;
 }
 
+/* Adding padding-top to container in contact page */
+#container-contact {
+    padding-top: 7em;
+    margin-bottom: 5em;
+}
+
 /* Increase font size for h3's */
 h3 {
     font-size: 2em;
@@ -24,11 +30,16 @@ h1 {
     font-size: 1.1em;
 }
 
-/* Style links for portfolio, email, location, phone number, and resume in home page */
-#portfolio, #email, #location, #phone, #resume {
+/* Style links for portfolio, email, location, phone number, and resume in home page and email and phone in contact page*/
+#portfolio, #email, #email-contact, #location, #phone, #phone-contact, #resume {
     text-decoration: none;
     color: black;
     font-weight: bold;
+}
+
+/* Increase font-size for email and phone in contact page */
+#email-contact, #phone-contact {
+    font-size: 1.2em;
 }
 
 /* Add hover effect to links for portfolio, email, location, phone number, and resume in home page */
@@ -36,13 +47,19 @@ h1 {
     color: rgb(0, 0, 0, 0.7);
 }
 
-/* Style p in portfolio page */
-#p-portfolio {
-    margin-top: 20px;
-    margin-bottom: 20px;
+/* Style p in contact page */
+#p-contact {
+    margin-top: 1em;
+    font-size: 1.2em;
 }
 
 /* Style h1 in contact page */
 #h1-contact {
     margin-bottom: 50px;
+}
+
+/* Style h3's in contact page */
+#h3-contact {
+    margin-bottom: .8em;
+    margin-top: 1em;
 }
