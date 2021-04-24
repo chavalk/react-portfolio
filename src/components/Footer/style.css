@@ -1,10 +1,31 @@
+/* Style footer */
 footer {
-    padding-top: 3em;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-top: 2em;
+    padding-bottom: 2em;
     position: relative;
     bottom: 0;
     width: 100%;
 }
 
-#footer {
-    font-weight: bold;
+/* Change color of icons in footer */
+#linkedin, #github, #twitter {
+    color: white;
+}
+
+/* Add margin to GitHub icon on both sides to separate icons */
+#github {
+    margin-right: 4em;
+    margin-left: 4em;
+}
+
+/* Add margin below icons */
+.icons {
+    margin-bottom: 2em;
+}
+
+#p-footer {
+    margin-bottom: 1em;
 }

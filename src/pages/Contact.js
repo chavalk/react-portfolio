@@ -10,11 +10,6 @@ const Contact = () => {
                 <div className="col-md-6">
                     <h1 id="h1-contact">Contact</h1>
                     <p id="p-portfolio">Feel free to reach me by email at <a href="mailto:chavalk@hotmail.com" id="email">chavalk@hotmail.com</a> or by phone at <a href="tel:+1-210-782-7463" id="phone">210-782-7463</a>.</p>
-                    <div className="icons">
-                        <a href="https://www.linkedin.com/in/jose-s-garcia" target="_blank" rel="noreferrer" id="linkedin"><i className="fab fa-linkedin-in fa-3x"></i></a>
-                        <a href="https://github.com/chavalk" target="_blank" rel="noreferrer" id="github"><i className="fab fa-github fa-3x"></i></a>
-                        <a href="https://twitter.com/chavalk" target="_blank" rel="noreferrer" id="twitter"><i className="fab fa-twitter fa-3x"></i></a>
-                    </div>
                 </div>
                 <div className="col-md-3">
                 </div>

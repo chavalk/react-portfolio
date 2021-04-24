@@ -1,16 +1,12 @@
 /* Adding margin-top to container in home page */
 #container-home {
     margin-top: 100px;
+    margin-bottom: 2em;
 }
 
 /* Adding padding-top to container in portfolio page */
 #container-portfolio {
     padding-top: 100px;
-}
-
-/* Center text for h1 and p in home page */
-#h1-home, .p-home {
-    
 }
 
 /* Increase font size for h3's */
@@ -38,20 +34,6 @@ h1 {
 /* Add hover effect to links for portfolio, email, location, phone number, and resume in home page */
 #portfolio:hover, #email:hover, #location:hover, #phone:hover, #resume:hover {
     color: rgb(0, 0, 0, 0.7);
-}
-
-/* Style LinkedIn, GitHub, and Twitter icons */
-.icons {
-    width: 100%;
-    text-align: center;
-    letter-spacing: 3px;
-}
-
-/* Style GitHub icon */
-#github {
-    color: black;
-    margin-right: 5px;
-    margin-left: 5px;
 }
 
 /* Style p in portfolio page */
