@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './style.css';
+import Profile from "../images/profile-small.jpg";
 
 const Home = () => {
     return (
         <div className="container" id="container-home">
             <div className="row">
                 <div className="col-md-4">
-                    <img src="https://www.josesgarcia.com/images/profile-small.jpg" className="img-fluid rounded shadow-lg" alt="Profile"></img>
+                    <img src={Profile} className="img-fluid rounded shadow-lg" alt="Profile"></img>
                 </div>
                 <div className="col-md-8">
                     <h1 className="ml-4 mt-5">Hello, my name is Jose Garcia.</h1>

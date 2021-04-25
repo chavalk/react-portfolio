@@ -2,6 +2,12 @@ import React from 'react';
 import './style.css';
 import Project from '../components/Project';
 import projects from '../projects.json';
+import aLists from "../images/a-lists-small.png";
+import pillBox from "../images/pill-box.png";
+import googleBooks from "../images/google-books-search.png";
+import workoutTracker from "../images/workout-tracker.png";
+import budgetTracker from "../images/budget-tracker.png";
+import weatherDashboard from "../images/weather-dashboard.png";
 
 const Portfolio = () => {
     return (
@@ -14,7 +20,7 @@ const Portfolio = () => {
                     <h5 id="p-portfolio">Below are some of the projects I've worked on:</h5>
                     <div className="row">
                         <Project 
-                            image={projects[0].image}
+                            image={aLists}
                             title={projects[0].title}
                             description={projects[0].description}
                             technologies={projects[0].technologies}
@@ -22,7 +28,7 @@ const Portfolio = () => {
                             repo={projects[0].repo}
                         />
                         <Project 
-                            image={projects[1].image}
+                            image={pillBox}
                             title={projects[1].title}
                             description={projects[1].description}
                             technologies={projects[1].technologies}
@@ -32,7 +38,7 @@ const Portfolio = () => {
                     </div>
                     <div className="row">
                         <Project 
-                            image={projects[2].image}
+                            image={googleBooks}
                             title={projects[2].title}
                             description={projects[2].description}
                             technologies={projects[2].technologies}
@@ -40,7 +46,7 @@ const Portfolio = () => {
                             repo={projects[2].repo}
                         />
                         <Project 
-                            image={projects[3].image}
+                            image={workoutTracker}
                             title={projects[3].title}
                             description={projects[3].description}
                             technologies={projects[3].technologies}
@@ -50,7 +56,7 @@ const Portfolio = () => {
                     </div>
                     <div className="row">
                         <Project 
-                            image={projects[4].image}
+                            image={budgetTracker}
                             title={projects[4].title}
                             description={projects[4].description}
                             technologies={projects[4].technologies}
@@ -58,7 +64,7 @@ const Portfolio = () => {
                             repo={projects[4].repo}
                         />
                         <Project 
-                            image={projects[5].image}
+                            image={weatherDashboard}
                             title={projects[5].title}
                             description={projects[5].description}
                             technologies={projects[5].technologies}
