@@ -14,7 +14,7 @@ const Portfolio = () => {
         <div className="container" id="container-portfolio">
             <div className="row">
                 <div className="col-md-12">
-                    <h1 id="h1-portfolio">Projects</h1>
+                    <h1 id="projects">Projects</h1>
                     <h3 id="p-portfolio" className="text-center mb-5">Below are some of the projects I've worked on.</h3>
                     <div className="row">
                         <Project 
