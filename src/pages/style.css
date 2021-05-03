@@ -15,14 +15,20 @@
     margin-bottom: 5em;
 }
 
-/* Increase font size for h3's */
-h3 {
-    font-size: 2em;
-}
-
 /* Increase font size for h1's */
 h1 {
     font-size: 3em;
+}
+
+/* Center h1 for projects */
+#h1-portfolio {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+/* Increase font size for h3's */
+h3 {
+    font-size: 2em;
 }
 
 /* Increase font size for p's in home page */
