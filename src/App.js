@@ -1,5 +1,4 @@
 import React from 'react';
-import { HashRouter, Route } from 'react-router-dom';
 import Nav from './components/Nav';
 import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
@@ -11,12 +10,10 @@ function App() {
   return (
     <div className="page-container">
       <div className="content-wrap">
-        <HashRouter basename="/">
-          <Nav />
-          <Route exact path="/" component={Home} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/contact" component={Contact} />
-        </HashRouter>
+        <Nav />
+        <Home />
+        <Portfolio />
+        <Contact />
       </div>
       <Footer />
     </div>
