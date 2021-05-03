@@ -2,7 +2,7 @@ import React from 'react';
 
 const Project = (props) => {
     return (
-        <div className="col-md-6 mb-3">
+        <div className="col-md-4 mb-3">
             <div className="card text-center shadow-lg p-1 mb-2 bg-body rounded h-100" style={{ width: "100%" }}>
                 <img src={props.image} className="card-img-top" alt="Website"></img>
                 <div className="card-body">

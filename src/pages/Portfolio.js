@@ -13,9 +13,7 @@ const Portfolio = () => {
     return (
         <div className="container" id="container-portfolio">
             <div className="row">
-                <div className="col-md-2">
-                </div>
-                <div className="col-md-8">
+                <div className="col-md-12">
                     <h1>Portfolio</h1>
                     <h5 id="p-portfolio">Below are some of the projects I've worked on:</h5>
                     <div className="row">
@@ -35,8 +33,6 @@ const Portfolio = () => {
                             deployed={projects[1].deployed}
                             repo={projects[1].repo}
                         />
-                    </div>
-                    <div className="row">
                         <Project 
                             image={googleBooks}
                             title={projects[2].title}
@@ -45,6 +41,8 @@ const Portfolio = () => {
                             deployed={projects[2].deployed}
                             repo={projects[2].repo}
                         />
+                    </div>
+                    <div className="row">
                         <Project 
                             image={workoutTracker}
                             title={projects[3].title}
@@ -53,8 +51,6 @@ const Portfolio = () => {
                             deployed={projects[3].deployed}
                             repo={projects[3].repo}
                         />
-                    </div>
-                    <div className="row">
                         <Project 
                             image={budgetTracker}
                             title={projects[4].title}
@@ -72,8 +68,6 @@ const Portfolio = () => {
                             repo={projects[5].repo}
                         />
                     </div>
-                </div>
-                <div className="col-md-2">
                 </div>
             </div>
         </div>
