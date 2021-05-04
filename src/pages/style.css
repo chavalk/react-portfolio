@@ -24,6 +24,7 @@ h1 {
 #projects {
     text-align: center;
     margin-bottom: 1em;
+    padding-top: 1.9em;
 }
 
 /* Increase font size for h3's */
@@ -61,7 +62,9 @@ h3 {
 
 /* Style h1 in contact page */
 #contact {
+    text-align: center;
     margin-bottom: 50px;
+    padding-top: 1.9em;
 }
 
 /* Style h3's in contact page */
