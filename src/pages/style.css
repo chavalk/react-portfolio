@@ -1,15 +1,15 @@
-/* Adding margin-top to container in home page */
+/* Adding margin-top to container in home section */
 #container-home {
     margin-top: 5em;
     margin-bottom: 2em;
 }
 
-/* Adding padding-top to container in portfolio page */
+/* Adding padding-top to container in portfolio section */
 #container-portfolio {
     margin-top: 5em;
 }
 
-/* Adding padding-top to container in contact page */
+/* Adding padding-top to container in contact section */
 #container-contact {
     padding-top: 7em;
     margin-bottom: 5em;
