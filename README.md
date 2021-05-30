@@ -1,56 +1,44 @@
-# react-portfolio
+# React-Portfolio
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-React Portfolio is an application built entirely with React.js. It involved taking an earlier version of my portfolio website built with HTML5 and CSS3 and building it from the ground up with React.js. Under the hood, the application has a pages folder for the about page, the portfolio page, and the contact page. It also takes advantage of using components in react to have a component for the nav bar, a component for the footer, and a component for building the project cards. The application uses React HashRouter instead of BrowserRouter in order to allow the deployment to GitHub pages. HashRouter is the one that facilitates rendering the different pages.
+An application to showcase all of my projects and to promote myself as a Software Developer.
 
-Below is a screenshot of the about page in the application:
+## What the project does
 
-![react-portfolio](./public/assets/images/about.png)
+The project allows users, recruiters, and fellow developers to interact with my portfolio page. The application has information about me, about my projects, and ways to get in touch with me. Below is a GIF showing how the application works.
 
-Below is a screenshot of the portfolio page:
+![react-portfolio](src/images/react-portfolio.gif)
 
-![react-portfolio](./public/assets/images/portfolio.png)
+## Why is the project useful
 
-Below is a screenshot of the contact page:
+The projects allows me to showcase myself and the projects I've worked on for purposes of maintaining a good online presence as a developer. From a development stand point, it was also good practice working with react since my original portfolio, built with just HTML and CSS, was refactored to work with react.
 
-![react-portfolio](./public/assets/images/contact.png)
+## How users can get started with the project
 
-## Table of Contents
+Simply navigate to the deployed version listed below to interact with it.
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+https://www.josesgarcia.com/
 
-## Installation
+## What technologies were used with the project
 
-There's no need to install this application. Simply navigate to the deployed version below to see it in action.
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* JSX
 
-https://chavalk.github.io/react-portfolio/#/
-
-## Usage
-
-This project's primary purpose was to continue to get experience building applications with React.js and also to experience refactoring an existing application built with HTML5 and CSS3 to work with React.js.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Contributing
-
-Contributions are currently not accepted for this application.
-
-## Tests
-
-There is no testing available within the application.
-
-## Questions
+## Where users can get help with your project
 
 My GitHub username is: chavalk
 
 Link: https://github.com/chavalk
 
 If you have additional questions, feel free to reach me at chavalk@hotmail.com.
+
+## Who maintains and contributes to the project
+
+Currently I'm the only person maintaining and contributing to the project.
